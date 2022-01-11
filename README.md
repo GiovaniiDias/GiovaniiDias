@@ -1,9 +1,6 @@
 
      ### 👋 Olá! Eu sou o Giovani Dias.
 
-- 🌱 I’m currently learning Python, para entrar no mundo da programação.
-- 👯 I’m looking to collaborate on  prjetos simples para iniciantes.
-- 🤔 I’m looking for help with conseguiur a primeira vaga!
 - 😄 Pronouns: Ele/Dele
 
 -->
