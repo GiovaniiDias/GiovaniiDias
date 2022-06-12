@@ -30,7 +30,7 @@
 
 ##
 <div>
-   [![readme](https://github-readme-stats.vercel.app/api/pin/?username=GiovaniiDias&repo=GiovaniiDias&theme=react)](https://github.com/GiovaniiDias/GiovaniiDias)
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=GiovaniiDias&repo=GiovaniiDias&theme=react)](https://github.com/GiovaniiDias/GiovaniiDias)
 </div>
      
      
