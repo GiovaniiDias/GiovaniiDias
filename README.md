@@ -30,7 +30,5 @@
 
 ##
 
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=GiovaniiDias&repo=GiovaniiDias&theme=react)](https://github.com/GiovaniiDias/GiovaniiDias)
-
      
      
