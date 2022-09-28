@@ -1614,34 +1614,11 @@
         }
       }
     </style>    
-      <!--
-        👉 COMENTÁRIO
-            Final do código do cara com a animação e também final das definições. 
-            O que vem após é realmente o que temos na tela.
-      -->    
+     
   </defs>
-  <!--
-    👉 COMENTÁRIO
-        Para colocar uma image assim de fundo do nosso SVG, o primeiro instinto seria fazer algo como:
-          <div style="background-color:url('header.png')"></div>
-        Mas essa abordagem não funcionou aqui, possivelmente por estarmos tratando de um SVG. A saída foi criar um outro elemento 
-        retangular (rect) que começa nas coordenadas 0 e 0, tem 1400px de largura e 425px de altura, exatamente o tamanho da nossa 
-        imagem de header e, finalmente, preenchê-lo com a imagem que carregamos como pattern acima.
-  -->
+ 
   <rect x="0" y="0" width="1400" height="425" style="fill:url(#headerimg)"/>
-  <!--
-    👉 COMENTÁRIO
-        E, finalmente, temos o foreignObject. Essa tag pode fazer parte do SVG e o GitHub não retira o que está dentro dela, 
-        possibilitando assim usarmos estilos mais sofisticados de CSS em nosso README.md
-        Basicamente criamos esse elemento com altura e largura de 100% e dentro dele colocamos o conteúdo HTML que queremos.
-        Você pode colocar o título e subtítulo e outros elementos. Eu preferi colocar o título e subtítulo diretamente na imagem png
-        por ser mais fácil de configurar a fonte que eu queria e formatos, mas usei o espaço abaixo para criar um botão de CTA.
-        No caso, coloquei um botão que ao ser clicado levaria o visitante para o meu blog (dev.lawyer), mas como eu mencionei antes
-        não é possível usar funções de interação como "onclick" dentro de um SVG que não seja "inline". 
-        A saída, portanto, foi colocar esse clique e link na imagem que usa este SVG como fonte (na prática, ele direciona o visitante
-        ao site se ele clicar em qualquer lugar do cabeçalho, e não apenas no botão), mas para dar um apelo ao botão que coloquei
-        uma animação nele, com base no CSS que comentei acima.
-  -->
+  
 	<foreignObject width="100%" height="100%">
 		<div xmlns="http://www.w3.org/1999/xhtml">
 			<div id="container">
