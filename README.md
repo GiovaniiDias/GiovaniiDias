@@ -34,8 +34,3 @@
      
 ![Snake animation](https://github.com/giovaniidias/giovaniidias/blob/output/github-contribution-grid-snake.svg)
 
-
-![main]<svg width="1400" height="425" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-
-    <pattern id="headerimg" patternUnits="userSpaceOnUse" width="1400" height="425" x="0" y="0" >
