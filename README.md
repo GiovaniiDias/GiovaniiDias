@@ -2,6 +2,9 @@
    ### 👋 Olá! Eu sou o **Giovani Dias**.
 
 - 😄 Pronouns: Ele/Dele
+- 📚👨🏽‍💻  Estudante
+- 🐍 ⚙🔗 Automação de Processos
+- ☕
 
 ##
 <div style="display: inline_block"><br>
@@ -22,10 +25,6 @@
 
 
 <div>     
-  <img align="center" alt="gio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="gio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="gio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- <img align="center" alt="gio-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
  <img align="center" alt="gio-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  </div>
 
